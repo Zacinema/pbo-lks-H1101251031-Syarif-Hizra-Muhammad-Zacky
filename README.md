@@ -1,7 +1,7 @@
 "# pbo-lks-H1101251017-Hizbullah" 
 
--	Nama :	Muhamad Hizbullah Pohan
--	NIM :	H1101251017
+-	Nama :	Syarif Hizra Muhammad Zacky
+-	NIM :	H1101251031
 -	Kelas:	A
 
 ## Daftar Pertemuan
