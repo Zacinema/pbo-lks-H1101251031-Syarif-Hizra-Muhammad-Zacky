@@ -1,0 +1,22 @@
+/* Styling untuk notifikasi popup (Toast) */
+.toast-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.toast-success {
+    background-color: #10B981; /* Emerald 500 */
+}
+
+.toast-error {
+    background-color: #EF4444; /* Red 500 */
+}
